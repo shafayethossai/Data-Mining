@@ -1,0 +1,14 @@
+antecedents_str,consequents_str,support,confidence,lift
+coffee + hot chocolate,cake,0.0118,0.2321,1.4488
+soup,tea,0.0156,0.3007,1.4463
+hot chocolate,cake,0.0196,0.2236,1.3955
+coffee + tea,cake,0.0172,0.2013,1.2561
+scone,tea,0.0143,0.2607,1.2541
+cake,tea,0.0408,0.2545,1.2242
+toast,coffee,0.0406,0.7368,1.2189
+salad,coffee,0.0112,0.6813,1.1271
+scandinavian,bread,0.0112,0.3851,1.1153
+sandwich,tea,0.0247,0.2219,1.0671
+pastry,bread,0.05,0.368,1.0658
+medialuna,coffee,0.0604,0.6307,1.0433
+spanish brunch,coffee,0.0187,0.6131,1.0142
